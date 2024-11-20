@@ -1,0 +1,36 @@
+{
+  "name": "HUD-Swift",
+  "version": "1.0.0",
+  "summary": "A short description of HUD-Swift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/galenu/HUD-Swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "galenu": "250167616@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/galenu/HUD-Swift.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": [
+    "5.0"
+  ],
+  "source_files": "HUD-Swift/Classes/**/*",
+  "resource_bundles": {
+    "HUD-Swift": [
+      "HUD-Swift/Assets/*.xcassets"
+    ]
+  },
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

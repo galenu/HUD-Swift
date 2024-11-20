@@ -1,0 +1,6 @@
+framework module HUD_Swift {
+  umbrella header "HUD-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

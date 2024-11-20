@@ -1,0 +1,23 @@
+PODS:
+  - HUD-Swift (1.0.0):
+    - SnapKit
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - HUD-Swift (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  HUD-Swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HUD-Swift: 937bf5199e2d37495936afbd6f0eaa2265707570
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: 6c8db5f729f13ce3a676592debc4170f86230201
+
+COCOAPODS: 1.15.2
